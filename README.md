@@ -1,2 +1,2 @@
 # ECG_GUI
-Matlab GUI to apply filters to both ECG signals taken and found from the MIT database.
+Matlab GUI to determine the heart rate and QRS peaks on ECG signals taken from an ECG circuit.
