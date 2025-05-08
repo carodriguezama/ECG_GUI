@@ -1,4 +1,4 @@
-# ECG_GUI – MATLAB-Based ECG Signal Analyzer
+# ECG_GUI – MATLAB-Based ECG Signal Analyzer made for Applications of Embedded Spring 2023
 
 This MATLAB GUI application processes ECG signals to detect QRS complexes and calculate heart rate in real time. It is designed to work with data acquired from an ECG circuit or from saved signal files. The tool offers a simple interface for biomedical signal analysis and visualization.
 
