@@ -4,7 +4,7 @@ This MATLAB GUI application processes ECG signals to detect QRS complexes and ca
 
 ---
 
-## 🩺 Features
+## Features
 
 - **Real-Time ECG Plotting:** Visualizes the ECG waveform dynamically.
 - **QRS Complex Detection:** Identifies R-peaks using signal processing techniques.
@@ -13,28 +13,28 @@ This MATLAB GUI application processes ECG signals to detect QRS complexes and ca
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - MATLAB (R2021a or newer recommended)
 - Signal Processing Toolbox (for filtering and analysis)
-- ECG signal (from a data file or real-time acquisition setup)
+- ECG signal (from a data file)
 
 ---
 
-## 📁 File Structure
-
-ECG_GUI/
-├── ECG_GUI.m % Main script to launch the GUI
-├── ECG_GUI.fig % GUI layout file
-├── sample_data.mat % Example ECG signal data
-└── functions/ % Custom functions for QRS detection, filtering, etc.
-
-
----
-
-## ▶️ How to Use
+## How to Use
 
 1. **Launch the GUI**:  
-   Open MATLAB, navigate to the `ECG_GUI` folder, and run:
+   Open MATLAB, navigate to the `MIT-BIH-Arrhythmia-Database_GUI or ECGGUI` folder, and run:
    ```matlab
-   ECG_GUI
+   Part1.mlapp or ECG_GUI.mlapp
+
+ ## GUI
+*ECG Circuit*  
+![Gameplay Screenshot](ECG_Circuit.png)
+
+*GUI Layout*  
+![Gameplay Screenshot](ecg.png)
+
+*Graph After Filtered and smaller interval*  
+![Gameplay Screenshot](Filtered.png)
+
